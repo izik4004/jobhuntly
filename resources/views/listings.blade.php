@@ -24,5 +24,24 @@
             </div>
         </div>
     </nav>
+
+    {{-- hero section --}}
+    <section class="hero">
+        <div class="container flex flex-col-reverse md:flex-row items-center px-6 mx-auto mt-10 space-y-0 md:space-y-0">
+            <div class="flex flex-col mb-32 space-y-12 md:w-1/2">
+                
+                <h1 class="max-w-md text-5xl font-bold text-center md:text-5xl md:text-left">
+                    Discover more than 500+ Jobs
+                </h1>
+                <p class="max-w sm text-center">
+                    Great platform for the job seeker that 
+                    searching for new career heights and passionate about startups.
+                </p>
+            </div>
+            <div>
+                <img src="" alt="">
+            </div>
+        </div>
+    </section>
 </body>
 </html>
